@@ -1,0 +1,38 @@
+.tabletd table {
+    border-collapse: collapse;
+    width: 100%;
+    
+  }
+
+  
+  .tabletd  td {
+   
+       padding: 15px 10px 15px 30px;
+    border: 0px;
+    
+       
+    font-size: 16px;
+    color: black;
+    font-weight: 400;
+    
+  }
+
+  
+ .tabletd  tr:nth-child(even) {background-color: #ead8ed;
+     
+ }
+ 
+ .tabletd  tr:nth-child(odd) {background-color: #F9FFFB !important 
+ ;}
+
+ .tabletd{
+    border: 1px solid #70307c;
+    overflow: auto;
+ }
+ .par-tst{
+    background-color: #70307c;
+    color: white;
+    text-align: left;
+    padding: 20px 10px 20px 30px;
+    font-size: 16px;
+ }
